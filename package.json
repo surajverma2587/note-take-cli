@@ -1,0 +1,25 @@
+{
+  "name": "note-take-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surajverma2587/note-take-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surajverma2587/note-take-cli/issues"
+  },
+  "homepage": "https://github.com/surajverma2587/note-take-cli#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "inquirer-datepicker": "^2.0.0",
+    "moment": "^2.29.1"
+  }
+}
